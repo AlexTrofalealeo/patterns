@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StrategyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-27T21:30:31" hostname="LAPTOP-PHAM7UGQ" time="0.019">
+  <properties/>
+  <testcase name="impatientStrategy()" classname="StrategyTest" time="0.009"/>
+  <testcase name="smartStrategyStartClosed()" classname="StrategyTest" time="0.003"/>
+  <testcase name="smartStrategyStartOpened()" classname="StrategyTest" time="0.001"/>
+  <testcase name="orderStringRecipe()" classname="StrategyTest" time="0.001"/>
+  <testcase name="ferengiStartClosed()" classname="StrategyTest" time="0.002"/>
+  <testcase name="ferengiAlreadyOpened()" classname="StrategyTest" time="0.001"/>
+  <testcase name="romulan()" classname="StrategyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
